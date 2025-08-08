@@ -6,7 +6,7 @@ export default function BehavioralTests() {
   const [activeTab, setActiveTab] = useState<'available' | 'results' | 'comparison'>('available');
   const [showTestModal, setShowTestModal] = useState(false);
   const [selectedTest, setSelectedTest] = useState<'disc' | 'culture' | 'leadership' | null>(null);
-  const [testResults, setTestResults] = useState([
+  const [testResults, setTestResults] = useState(
 
   const availableTests = [
     {
