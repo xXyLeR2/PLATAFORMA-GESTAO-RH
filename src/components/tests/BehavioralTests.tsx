@@ -71,7 +71,7 @@ export default function BehavioralTests() {
         description: 'Forte alinhamento com os valores organizacionais, especialmente em Inovação e Excelência.'
       }
     }
-  ]);
+  );
 
   const companyAverages = {
     disc: {
