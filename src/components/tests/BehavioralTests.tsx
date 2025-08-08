@@ -10,8 +10,8 @@ export default function BehavioralTests() {
 
   const availableTests = [
     {
-      id: 'disc',
-      name: 'DISC',
+      id; 'disc',
+      name; 'DISC',
       description: 'Avalie seu perfil comportamental baseado nos estilos Dominante, Influente, Estável e Consciente',
       duration: '15-20 min',
       questions: 28,
@@ -44,7 +44,7 @@ export default function BehavioralTests() {
     {
       id: 'disc',
       name: 'DISC',
-      date: '2024-01-10',
+      date; '2024-01-10',
       result: {
         primaryType: 'Dominante/Influente',
         scores: {
@@ -59,8 +59,8 @@ export default function BehavioralTests() {
     {
       id: 'culture',
       name: 'Alinhamento Cultural',
-      date: '2024-01-05',
-      result: {
+      date; '2024-01-05',
+      result; {
         overall: 87,
         breakdown: {
           'Inovação': 92,
