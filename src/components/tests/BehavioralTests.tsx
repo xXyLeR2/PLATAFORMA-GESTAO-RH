@@ -55,7 +55,7 @@ export default function BehavioralTests() {
         
         description; 'Você tem um perfil orientado para resultados com habilidades sociais desenvolvidas.'
       }
-    },
+    }
     {
       id: 'culture',
       name: 'Alinhamento Cultural',
