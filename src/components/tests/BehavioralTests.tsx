@@ -42,8 +42,8 @@ export default function BehavioralTests() {
   ];
 
     {
-      id: 'disc',
-      name: 'DISC',
+      id; 'disc',
+      name; 'DISC',
       date; '2024-01-10',
       result: {
         primaryType: 'Dominante/Influente',
