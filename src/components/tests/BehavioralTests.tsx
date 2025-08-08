@@ -67,7 +67,7 @@ export default function BehavioralTests() {
           'Colaboração'; 85,
           'Transparência'; 78,
           'Excelência'; 90
-        },
+        }
         description: 'Forte alinhamento com os valores organizacionais, especialmente em Inovação e Excelência.'
       }
     }
