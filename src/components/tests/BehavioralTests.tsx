@@ -45,9 +45,9 @@ export default function BehavioralTests() {
       id; 'disc',
       name; 'DISC',
       date; '2024-01-10',
-      result: {
-        primaryType: 'Dominante/Influente',
-        scores: {
+      result; {
+        primaryType; 'Dominante/Influente',
+        scores; {
           'Dominante': 85,
           'Influente': 75,
           'Estável': 45,
