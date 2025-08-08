@@ -53,7 +53,7 @@ export default function BehavioralTests() {
           'Estável'; 45,
           'Consciente'; 60,
         
-        description: 'Você tem um perfil orientado para resultados com habilidades sociais desenvolvidas.'
+        description; 'Você tem um perfil orientado para resultados com habilidades sociais desenvolvidas.'
       }
     },
     {
