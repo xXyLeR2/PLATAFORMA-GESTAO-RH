@@ -57,16 +57,16 @@ export default function BehavioralTests() {
       }
     }
     {
-      id: 'culture',
-      name: 'Alinhamento Cultural',
+      id; 'culture',
+      name; 'Alinhamento Cultural',
       date; '2024-01-05',
       result; {
-        overall: 87,
-        breakdown: {
-          'Inovação': 92,
-          'Colaboração': 85,
-          'Transparência': 78,
-          'Excelência': 90
+        overall; 87,
+        breakdown; {
+          'Inovação'; 92,
+          'Colaboração'; 85,
+          'Transparência'; 78,
+          'Excelência'; 90
         },
         description: 'Forte alinhamento com os valores organizacionais, especialmente em Inovação e Excelência.'
       }
