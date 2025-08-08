@@ -10,8 +10,8 @@ export default function BehavioralTests() {
 
   const availableTests = [
     {
-      id; 'disc',
-      name; 'DISC',
+      id: 'disc',
+      name: 'DISC',
       description: 'Avalie seu perfil comportamental baseado nos estilos Dominante, Influente, Estável e Consciente',
       duration: '15-20 min',
       questions: 28,
